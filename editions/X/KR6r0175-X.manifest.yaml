@@ -1,0 +1,268 @@
+canonical_identifier: bkk:krp/KR6r0175/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0175/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經鳩異
+  identifiers:
+    krp: KR6r0175
+    cbeta: X87n1630
+    cbeta_old_id: X87n1630
+    authorityid: CA0001694
+    json_key: X1630
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X87/X87n1630.xml
+    old_id: X87n1630
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0175_000-X.yaml, hash: 'sha256:ec168947745859a6781c1915d85575efc9d67e46530bccb9a868ff947a713253'}
+  - {seq: 1, filename: KR6r0175_001-X.yaml, hash: 'sha256:c311abdb163cde32a875abe5c5ab502c5efd32ab844345dcdd625ac6f7095560'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0175_000-X.markers.yaml, hash: 'sha256:4ccaad0275797402469c26b004cb832f38b146f0aa5dc7a35a5bf61c2189afa0'}
+  - {seq: 1, role: markers, filename: assets/KR6r0175_001-X.markers.yaml, hash: 'sha256:8303398b12016de8d5d1d2789a9afeb60332d5f8fe963bc0c559c874fadd2f4c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0175_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 金剛經鳩異目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4554
+  label: 金剛經鳩異
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-2
+    span:
+    - body
+    - 450
+    - 450
+  label: 張齊丘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-3
+    span:
+    - body
+    - 675
+    - 675
+  label: 虞候王某
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-4
+    span:
+    - body
+    - 924
+    - 924
+  label: 孫咸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-5
+    span:
+    - body
+    - 1250
+    - 1250
+  label: 僧智燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-6
+    span:
+    - body
+    - 1372
+    - 1372
+  label: 王從貴妹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-7
+    span:
+    - body
+    - 1471
+    - 1471
+  label: 左營伍伯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-8
+    span:
+    - body
+    - 1634
+    - 1634
+  label: 陳昭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-9
+    span:
+    - body
+    - 2159
+    - 2159
+  label: 僧惟恭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-10
+    span:
+    - body
+    - 2331
+    - 2331
+  label: 董進朝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-11
+    span:
+    - body
+    - 2532
+    - 2532
+  label: 王沔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-12
+    span:
+    - body
+    - 2615
+    - 2615
+  label: 僧會宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-13
+    span:
+    - body
+    - 2688
+    - 2688
+  label: 僧法正
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-14
+    span:
+    - body
+    - 2842
+    - 2842
+  label: 沙彌道蔭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-15
+    span:
+    - body
+    - 2923
+    - 2923
+  label: 王忠幹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-16
+    span:
+    - body
+    - 3239
+    - 3239
+  label: 何軫妻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-17
+    span:
+    - body
+    - 3364
+    - 3364
+  label: 王殷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-18
+    span:
+    - body
+    - 3476
+    - 3476
+  label: 趙安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-19
+    span:
+    - body
+    - 3612
+    - 3612
+  label: 王翰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-20
+    span:
+    - body
+    - 3795
+    - 3795
+  label: 高涉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-21
+    span:
+    - body
+    - 4168
+    - 4168
+  label: 豐州烽子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0175_X_001-mulu-22
+    span:
+    - body
+    - 4439
+    - 4439
+  label: 王孝廉
+  type: mulu
+  level: 1
+hash: sha256:5c346589227036ee99a82363611ed54a4efa645ae949417b4c82e5e12618c881
