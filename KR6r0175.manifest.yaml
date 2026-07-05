@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0175_000.yaml, hash: 'sha256:ec168947745859a6781c1915d85575efc9d67e46530bccb9a868ff947a713253'}
-  - {seq: 1, filename: KR6r0175_001.yaml, hash: 'sha256:25061885ee680c382c407d5d7bbfd49bc0f0508b83ac6718faef31326f885f42'}
+  - {seq: 1, filename: KR6r0175_001.yaml, hash: 'sha256:c311abdb163cde32a875abe5c5ab502c5efd32ab844345dcdd625ac6f7095560'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0175_001.markers.yaml, hash: 'sha256:b489e34773294380f0c1d9c8c3df839b9550bc460db1161f6473006b85f29346'}
+  - {seq: 0, role: markers, filename: assets/KR6r0175_000.markers.yaml, hash: 'sha256:17b8e5aea6561a22e75a6f2bdb16c1272a56611e9530045183d7cb9d89a27ff6'}
+  - {seq: 1, role: markers, filename: assets/KR6r0175_001.markers.yaml, hash: 'sha256:9d89301d86d2a0871bddc1650020950c4d2990fd68b4cd38b5bc7ee4367f0cfd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -266,7 +267,4 @@ table_of_contents:
   label: 王孝廉
   type: mulu
   level: 1
-hash: sha256:69a7d6459ddd6229f7f40aba608c4ff112e9c53dcf2a38d2ab568e669effcb63
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4085eac6c60986c7ea3b8ecc3a481acda5c23d439214ffcf54be4fefd3572416
