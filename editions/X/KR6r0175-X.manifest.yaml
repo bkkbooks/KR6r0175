@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0175_000-X.yaml, hash: 'sha256:ec168947745859a6781c1915d85575efc9d67e46530bccb9a868ff947a713253'}
+  - {seq: 0, filename: KR6r0175_000-X.yaml, hash: 'sha256:9876031f5abb4530799eb72312b0a675009063cc91e3f55099cb78f1eb962b53'}
   - {seq: 1, filename: KR6r0175_001-X.yaml, hash: 'sha256:c311abdb163cde32a875abe5c5ab502c5efd32ab844345dcdd625ac6f7095560'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0175_000-X.markers.yaml, hash: 'sha256:4ccaad0275797402469c26b004cb832f38b146f0aa5dc7a35a5bf61c2189afa0'}
+  - {seq: 0, role: markers, filename: assets/KR6r0175_000-X.markers.yaml, hash: 'sha256:9fd7d50042e09c3a3dff479ff679288b90bc4f58814d726a16bd0ce4103b7d0c'}
   - {seq: 1, role: markers, filename: assets/KR6r0175_001-X.markers.yaml, hash: 'sha256:8303398b12016de8d5d1d2789a9afeb60332d5f8fe963bc0c559c874fadd2f4c'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0175_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金剛經鳩異目次
@@ -265,4 +265,4 @@ table_of_contents:
   label: 王孝廉
   type: mulu
   level: 1
-hash: sha256:5c346589227036ee99a82363611ed54a4efa645ae949417b4c82e5e12618c881
+hash: sha256:939aa67b660ec67a2e279937b6b7b4e9da2e77f0d632861857dd80bcf5c78b87
